@@ -1,3 +1,3 @@
 # git_project
 test project
-project Noyes
+project Notes
